@@ -1,5 +1,5 @@
 {
-  "name": "test-driven-palindromes",
+  "name": "tdr-workthrough",
   "private": true,
   "version": "1.0.0",
   "description": "",
@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "GPL",
   "devDependencies": {
     "eslint": "^5.1.0",
     "eslint-plugin-jest": "^22.1.2",
